@@ -28,7 +28,7 @@ command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/seanseany/blockchain
+$ git clone https://github.com/JBAhire/Blockchain-CLI
 
 # Go into the repository
 $ cd blockchain
