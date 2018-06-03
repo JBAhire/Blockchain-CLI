@@ -15,7 +15,7 @@ If you wanna know more about Blockchain and it's Applications you can read my bo
 
 
 
-## 📦 Installation
+## Installation
 
 To install this application, you'll need
 [Node.js](https://nodejs.org/en/download/) 7+ (which comes with
