@@ -6,6 +6,7 @@ variables (much the same way as financial derivatives have a payout that is a fu
 
 # Blockchain-CLI
 This is a practical Blockchain implementation written in JavaScript.
+If you wanna know more about Blockchain and it's Applications you can read my book here.
 <div align="center">
   <a href="https://www.amazon.com/Blockchain-Mr-Jayesh-Bapu-Ahire/dp/1980637903"><img src="https://github.com/JBAhire/Blockchain-CLI/blob/master/Logos/Blockchain.jpg"></a><br><br>
 </div>
